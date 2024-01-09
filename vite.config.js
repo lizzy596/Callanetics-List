@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://lizzy596.github.io/Callanetics-List/'
+  base: '/Callanetics-List/'
 })
