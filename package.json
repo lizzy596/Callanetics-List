@@ -1,6 +1,7 @@
 {
   "name": "callanetics-list",
-  "private": true,
+  "homepage": "https://lizzy596.github.io/Callanetics-Timer/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
