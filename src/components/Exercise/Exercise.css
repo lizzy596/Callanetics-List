@@ -1,0 +1,27 @@
+/* Exercise.css */
+
+.ExerciseLabelContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  height: 40px;
+  margin: 10px;
+  border: 3px solid #FF69B4 ;
+  border-radius: 10px;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.ExerciseText {
+  color: white;
+  font-size: 20px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.Disabled {
+  background-color: grey;
+  opacity: 0.4;
+  cursor: not-allowed;
+}
