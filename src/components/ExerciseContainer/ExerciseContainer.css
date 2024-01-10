@@ -2,16 +2,15 @@
 
 .ExerciseContainer {
   display: flex;
-  height: 95%;
   justify-content: space-between;
   align-items: center;
   border: 3px solid white;
-  margin-bottom: 0px;
+  margin: 10px;
   border-radius: 10px;
   background-color: black;
   padding: 5px;
 }
 
 .Column {
-  margin-right: 10px;
+  /* margin-right: .5%; */
 }
